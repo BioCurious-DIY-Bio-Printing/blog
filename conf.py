@@ -35,8 +35,10 @@ extensions = [
     'sphinxext.opengraph',
 ]
 
+
 blog_title = 'BioCurious DIY BioPrinting blog'
 blog_baseurl = 'https://biocurious-diy-bio-printing.github.io/blog/'
+
 blog_path = 'archive'
 fontawesome_link_cdn = 'https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css'
 # fontawesome_included = True
